@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "Anahtar Oluştur";
+}
+
+<h2>Anahtar Oluştur</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <div class="alert alert-success">
+        @ViewBag.Message
+    </div>
+}
+<head>
+   <style>
+        .custom-input {
+            width: 500px; 
+        }
+        .form-group {
+          
+           
+            margin-bottom: 15px;
+        }
+        .my-class {
+            display:flex;
+            margin-left: 20px;
+            
+        }
+    </style>
+</head>
+
+<form method="post" asp-action="GenerateKeys">
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Anahtarları Oluştur</button>
+    </div>
+   
+</form>
+
+<form method="post" asp-action="EncryptAndDecryptData">
+    <div class="form-group">
+        <label for="keyInput">Şifrelenecek kelime :</label>
+        <input type="text" id="data" name="data" class="form-control custom-input" required />
+        <button type="submit" class="btn btn-primary">şifrele</button>
+        <p >
+           <span>
+                Şifrelenen kelime :
+           </span>
+            @if (!String.IsNullOrEmpty(ViewBag.Enc))
+            {
+                @ViewBag.Enc
+            }
+        </p>
+
+        <label class="my-class">Şifrelenen kelime :
+            @if (!String.IsNullOrEmpty(ViewBag.Dec))
+            {
+                @ViewBag.Dec
+            }
+        </label>
+
+
+    </div>
+
+</form>
+<form method="post" asp-action="DecryptData">
+    <div class="form-group">
+        <label for="keyInput">Şifreli  kelime :</label>
+        <input type="text" id="data" name="encdata" class="form-control custom-input" required />
+        <button type="submit" class="btn btn-primary">Çöz</button>
+        <p >
+            <span>
+                Şifreli kelime :
+            </span>
+           
+            @if (!String.IsNullOrEmpty(ViewBag.EncData))
+            {
+                @ViewBag.EncData
+            }
+        </p>
+
+        <label class="my-class">
+            Çözülen kelime :
+            @if (!String.IsNullOrEmpty(ViewBag.DecData))
+            {
+                @ViewBag.DecData
+            }
+        </label>
+
+
+    </div>
+
+</form>

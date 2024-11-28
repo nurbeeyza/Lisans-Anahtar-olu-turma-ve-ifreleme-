@@ -1,0 +1,30 @@
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\Anahtar oluşturma.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\Anahtar oluşturma.AssemblyInfoInputs.cache
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\Anahtar oluşturma.AssemblyInfo.cs
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\Anahtar oluşturma.csproj.CoreCompileInputs.cache
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\Anahtar oluşturma.MvcApplicationPartsAssemblyInfo.cache
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\Anahtar oluşturma.RazorAssemblyInfo.cache
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\Anahtar oluşturma.RazorAssemblyInfo.cs
+D:\csharpuyg\Anahtar oluşturma\bin\Debug\net6.0\appsettings.Development.json
+D:\csharpuyg\Anahtar oluşturma\bin\Debug\net6.0\appsettings.json
+D:\csharpuyg\Anahtar oluşturma\bin\Debug\net6.0\Anahtar oluşturma.staticwebassets.runtime.json
+D:\csharpuyg\Anahtar oluşturma\bin\Debug\net6.0\Anahtar oluşturma.exe
+D:\csharpuyg\Anahtar oluşturma\bin\Debug\net6.0\Anahtar oluşturma.deps.json
+D:\csharpuyg\Anahtar oluşturma\bin\Debug\net6.0\Anahtar oluşturma.runtimeconfig.json
+D:\csharpuyg\Anahtar oluşturma\bin\Debug\net6.0\Anahtar oluşturma.dll
+D:\csharpuyg\Anahtar oluşturma\bin\Debug\net6.0\Anahtar oluşturma.pdb
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\staticwebassets\msbuild.Anahtar oluşturma.Microsoft.AspNetCore.StaticWebAssets.props
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\staticwebassets\msbuild.build.Anahtar oluşturma.props
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Anahtar oluşturma.props
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Anahtar oluşturma.props
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\staticwebassets.pack.json
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\staticwebassets.build.json
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\staticwebassets.development.json
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\scopedcss\bundle\Anahtar oluşturma.styles.css
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\scopedcss\projectbundle\Anahtar oluşturma.bundle.scp.css
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\Anahtar oluşturma.dll
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\refint\Anahtar oluşturma.dll
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\Anahtar oluşturma.pdb
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\Anahtar oluşturma.genruntimeconfig.cache
+D:\csharpuyg\Anahtar oluşturma\obj\Debug\net6.0\ref\Anahtar oluşturma.dll
